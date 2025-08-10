@@ -1,0 +1,6 @@
+[submodule "agent-backend"]
+	path = agent-backend
+	url = https://github.com/AZAR2305/agent-backend.git
+[submodule "treasury-zenith"]
+	path = treasury-zenith
+	url = https://github.com/AZAR2305/agent-backend.git
